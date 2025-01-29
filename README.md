@@ -4,9 +4,9 @@
 
 ## Hi there 👋
 
-- 🔭 wantuing to be a software engineer</br>
+- 🔭 wanting to be a software engineer</br>
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
